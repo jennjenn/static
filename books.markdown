@@ -6,3 +6,14 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - Promises to Keep - William W. Fisher III
 - Who Controls The Internet? - Jack Goldsmith + Tim Wu
 - The Future of the Internet and How to Stop It - Jonathan Zittrain
+- The Death and Life of Great American Cities - Jane Jacobs
+- The Control of Nature - John McPhee
+- True Names and hte opening of the cyberspace frontier - Vernor Vinge
+- Fear of Flying - Erica Jong
+- Dot.Con - John Cassidy
+- The Closed World - Paul N. Edwards
+- The Curious Incident of the Dog in Nighttime - Mark Haddon
+- American Pastoral - Philip Roth
+- Design Basics Index (reference)
+
+A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
