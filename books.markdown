@@ -8,7 +8,7 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - The Future of the Internet and How to Stop It - Jonathan Zittrain
 - The Death and Life of Great American Cities - Jane Jacobs
 - The Control of Nature - John McPhee
-- True Names and hte opening of the cyberspace frontier - Vernor Vinge
+- True Names and the opening of the cyberspace frontier - Vernor Vinge
 - Fear of Flying - Erica Jong
 - Dot.Con - John Cassidy
 - The Closed World - Paul N. Edwards
