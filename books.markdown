@@ -6,7 +6,7 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - Promises to Keep - William W. Fisher III
 - Who Controls The Internet? - Jack Goldsmith + Tim Wu
 - The Future of the Internet and How to Stop It - Jonathan Zittrain
-- The Death and Life of Great American Cities - Jane Jacobs
+- ~~The Death and Life of Great American Cities - Jane Jacobs~~ AM
 - The Control of Nature - John McPhee
 - True Names and the opening of the cyberspace frontier - Vernor Vinge
 - Fear of Flying - Erica Jong
