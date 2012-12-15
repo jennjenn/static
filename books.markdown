@@ -18,5 +18,8 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - The Shakespeare Wars - Ron Rosenbaum
 - Social Intelligence - Daniel Goleman
 - In Small Things Forgotten - James Deetz
+- Micromotives and Macrobehavior - Thomas Schelling
+- Life on the Screen - Sherry Turkle
+- From Counterculture to Cyberculture - Fred Turner
 
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
