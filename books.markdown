@@ -15,5 +15,7 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - The Curious Incident of the Dog in Nighttime - Mark Haddon
 - American Pastoral - Philip Roth
 - Design Basics Index (reference)
+- The Shakespeare Wars - Ron Rosenbaum
+- Social Intelligence - Daniel Goleman
 
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
