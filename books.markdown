@@ -39,3 +39,11 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - Cooking in a Small Kitchen - Author Schwartz
 
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
+
+## Not free books:
+These are worth a good bit, so I'm up for a good trade or gift cards:
+(All Tufte textbooks):
+- Beautiful Evidence
+- Visual Explanations
+- Envisioning Information
+- The Visual Display of Quantitative Information
