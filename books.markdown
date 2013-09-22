@@ -9,6 +9,7 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - The Shakespeare Wars - Ron Rosenbaum
 - The Curious Incident of the Dog in Nighttime - Mark Haddon
 - Fear of Flying - Erica Jong
+- Brooklyn - Colm Tobin
 
 ### Non-Fiction:
 - Social Intelligence - Daniel Goleman
@@ -31,6 +32,7 @@ I'm trying to downsize my dead tree book library. If you're interested in any of
 - Wikinomics - Don Tapscott & Anthony D Williams
 - Microtrends - Mark J. Penn
 - Code 2.0 - Lessig
+- Small is the New Big - Seth Godin
 
 ### Misc:
 - Design Basics Index (reference)
