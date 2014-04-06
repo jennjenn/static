@@ -4,7 +4,7 @@
 * Africa, South Africa, Johannesburg
 * Asia, China
 * Asia, Hong Kong
-* <s>Asia, Japan, Tokyo</s>
+* ~~Asia, Japan, Tokyo~~
 * Asia, India
 * Asia, Israel
 * Asia, Singapore
@@ -20,17 +20,17 @@
 * Europe, The Netherlands, Amsterdam
 * Europe, UK, Northern Ireland
 * Europe, UK, Scotland
-* <s>Europe, Norway</s>
+* ~~Europe, Norway~~
 * Europe, Portugal, Lisbon
 * Europe, Turkey
 * North America, Canada, Montreal
 * North America, Canada, Toronto
-* <s>North America, Canada, Vancouver</s>
+* ~~North America, Canada, Vancouver~~
 * North America, USA, Alabama
 * North America, USA, Alaska
 * North America, USA, Arizona, Grand Canyon
 * North America, USA, Arkansas
-* North America, USA, California, San Diego
+* ~~North America, USA, California, San Diego~~
 * North America, USA, California, Yosemite
 * North America, USA, Colorado, Boulder
 * North America, USA, Colorado, Denver
@@ -75,8 +75,8 @@
 
 #things to do
 
-* Drive the Pacific Coast Highway
-* Fly first class
+* ~~Drive the Pacific Coast Highway~~
+* ~~Fly first class~~
 * Fly somewhere just to get lunch
 * Go on a sailing vacation
 * Go snorkeling
@@ -87,7 +87,7 @@
 * Ride a horse
 * Ride a jetski
 * Run a 5k
-* <s>Travel somewhere entirely on mileage / points</s>
+* ~~Travel somewhere entirely on mileage / points~~
 * Try archery
 * Visit at least 100 countries
 * Visit every continent (sans Antarctica, but that would be cool)
