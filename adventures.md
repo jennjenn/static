@@ -1,105 +1,95 @@
-			<section id="places">
-				<h2>places to go</h2>
-				<ul>
-					<li>Africa, Morocco</li>
-					<li>Africa, South Africa, Johannesburg</li>
-					<li>Asia, China</li>
-					<li>Asia, Hong Kong</li>
-					<li><s>Asia, Japan, Tokyo</s></li>
-					<li>Asia, India</li>
-					<li>Asia, Israel</li>
-					<li>Asia, Singapore</li>				
-					<li>Asia, Thailand</li>
-					<li>Australia, Australia</li>
-					<li>Australia, New Zealand</li>
-					<li>Europe, Croatia</li>
-					<li>Europe, Greece</li>
-					<li>Europe, Iceland</li>
-					<li>Europe, Ireland</li>
-					<li>Europe, Italy, Bologna</li>
-					<li>Europe, Italy, Cinque Terre</li>
-					<li>Europe, The Netherlands, Amsterdam</li>
-					<li>Europe, UK, Northern Ireland</li>
-					<li>Europe, UK, Scotland</li>
-					<li><s>Europe, Norway</s></li>
-					<li>Europe, Portugal, Lisbon</li>					
-					<li>Europe, Turkey</li>
-					<li>North America, Canada, Montreal</li>					
-					<li>North America, Canada, Toronto</li>
-					<li><s>North America, Canada, Vancouver</s></li>
-					<li>North America, USA, Alabama</li>
-					<li>North America, USA, Alaska</li>
-					<li>North America, USA, Arizona, Grand Canyon</li>
-					<li>North America, USA, Arkansas</li>
-					<li>North America, USA, California, San Diego</li>
-					<li>North America, USA, California, Yosemite</li>
-					<li>North America, USA, Colorado, Boulder</li>
-					<li>North America, USA, Colorado, Denver</li>
-					<li>North America, USA, Georgia, Atlanta</li>
-					<li>North America, USA, Hawaii</li>
-					<li>North America, USA, Louisiana, New Orleans</li>
-					<li>North America, USA, Maryland, Baltimore</li>
-					<li>North America, USA, Massachusetts, Boston</li>
-					<li>North America, USA, Michigan</li>
-					<li>North America, USA, Minnesota</li>
-					<li>North America, USA, Mississippi</li>
-					<li>North America, USA, New Mexico, Albuquerque</li>
-					<li>North America, USA, North Carolina</li>
-					<li>North America, USA, North Dakota</li>
-					<li>North America, USA, Ohio</li>
-					<li>North America, USA, Oklahoma</li>
-					<li>North America, USA, Oregon, Portland</li>
-					<li>North America, USA, Rhode Island</li>
-					<li>North America, USA, South Carolina</li>
-					<li>North America, USA, Tennessee, Nashville</li>					
-					<li>North America, USA, Vermont</li>
-					<li>North America, USA, Wisconsin</li>
-					<li>South America, Argentina</li>
-					<li>South America, Brazil</li>					
-					<li>South America, Chile</li>
-					<li>South America, Colombia</li>
+#places to go#
 
-				</ul>
-			</section>
-			<section id="see">
-				<h2>things to see</h2>
-				<ul>
-					<li data-tag="event">Acqua Alta</li>
-					<li data-tag="sight">Galapagos Islands</li>
-					<li data-tag="sight">Iguazu Falls</li>
-					<li data-tag="sight">Machu Picchu</li>
-					<li data-tag="event">Midnight Sun</li>
-					<li data-tag="sight">Neuschwanstein Castle</li>
-					<li data-tag="sight">Niagara Falls</li>
-					<li data-tag="event">Northern Lights</li>					
-					<li>The Grand Canyon</li>
-					<li data-tag="sight">The Great Barrier Reef</li>
-					<li data-tag="sight">The Great Wall of China</li>
-					<li>The Taj Mahal</li>
-				</ul>
-			</section>
+* Africa, Morocco
+* Africa, South Africa, Johannesburg
+* Asia, China
+* Asia, Hong Kong
+* <s>Asia, Japan, Tokyo</s>
+* Asia, India
+* Asia, Israel
+* Asia, Singapore
+* Asia, Thailand
+* Australia, Australia
+* Australia, New Zealand
+* Europe, Croatia
+* Europe, Greece
+* Europe, Iceland
+* Europe, Ireland
+* Europe, Italy, Bologna
+* Europe, Italy, Cinque Terre
+* Europe, The Netherlands, Amsterdam
+* Europe, UK, Northern Ireland
+* Europe, UK, Scotland
+* <s>Europe, Norway</s>
+* Europe, Portugal, Lisbon
+* Europe, Turkey
+* North America, Canada, Montreal
+* North America, Canada, Toronto
+* <s>North America, Canada, Vancouver</s>
+* North America, USA, Alabama
+* North America, USA, Alaska
+* North America, USA, Arizona, Grand Canyon
+* North America, USA, Arkansas
+* North America, USA, California, San Diego
+* North America, USA, California, Yosemite
+* North America, USA, Colorado, Boulder
+* North America, USA, Colorado, Denver
+* North America, USA, Georgia, Atlanta
+* North America, USA, Hawaii
+* North America, USA, Louisiana, New Orleans
+* North America, USA, Maryland, Baltimore
+* North America, USA, Massachusetts, Boston
+* North America, USA, Michigan
+* North America, USA, Minnesota
+* North America, USA, Mississippi
+* North America, USA, New Mexico, Albuquerque
+* North America, USA, North Carolina
+* North America, USA, North Dakota
+* North America, USA, Ohio
+* North America, USA, Oklahoma
+* North America, USA, Oregon, Portland
+* North America, USA, Rhode Island
+* North America, USA, South Carolina
+* North America, USA, Tennessee, Nashville
+* North America, USA, Vermont
+* North America, USA, Wisconsin
+* South America, Argentina
+* South America, Brazil
+* South America, Chile
+* South America, Colombia
 
-			<section id="things">
-				<h2>things to do</h2>
-				<ul>
-					<li>Drive the Pacific Coast Highway</li>
-					<li>Fly first class</li>
-					<li>Fly somewhere just to get lunch</li>
-					<li>Go on a sailing vacation</li>
-					<li>Go snorkeling</li>
-					<li>Learn to play a new instrument</li>
-					<li>Learn to play tennis</li>
-					<li>Live abroad</li>
-					<li>Meet the President</li>
-					<li>Ride a horse</li>
-					<li>Ride a jetski</li>
-					<li>Run a 5k</li>
-					<li><s>Travel somewhere entirely on mileage / points</s></li>
-					<li>Try archery</li>
-					<li>Visit at least 100 countries</li>
-					<li>Visit every continent (sans Antarctica, but that would be cool)</li>
-					<li>Walk on a glacier</li>
-					<li>Waterski</li>
-				</ul>
-			</section>
+#things to see
 
+* Acqua Alta
+* Galapagos Islands
+* Iguazu Falls
+* Machu Picchu
+* Midnight Sun
+* Neuschwanstein Castle
+* Niagara Falls
+* Northern Lights
+* The Grand Canyon
+* The Great Barrier Reef
+* The Great Wall of China
+* The Taj Mahal
+
+#things to do
+
+* Drive the Pacific Coast Highway
+* Fly first class
+* Fly somewhere just to get lunch
+* Go on a sailing vacation
+* Go snorkeling
+* Learn to play a new instrument
+* Learn to play tennis
+* Live abroad
+* Meet the President
+* Ride a horse
+* Ride a jetski
+* Run a 5k
+* <s>Travel somewhere entirely on mileage / points</s>
+* Try archery
+* Visit at least 100 countries
+* Visit every continent (sans Antarctica, but that would be cool)
+* Walk on a glacier
+* Waterski
