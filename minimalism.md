@@ -14,10 +14,8 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 ## Books
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
 
-### Classics:
-- The Catcher in the Rye - JD Salinger
-
 ### Fiction:
+- The Catcher in the Rye - JD Salinger
 - The Shakespeare Wars - Ron Rosenbaum
 - The Curious Incident of the Dog in Nighttime - Mark Haddon
 - Fear of Flying - Erica Jong
