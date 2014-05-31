@@ -4,13 +4,14 @@
 Here's a list of my stuff. If you're interested in any of it, [email me](mailto:jenn@jennvargas.com), [tweet me](http://twitter.com/jennjenn), or use some other clever method of communication.
 
 ## Furniture / Big Things
+
 * [50" Samsung Plasma Smart TV](https://post.craigslist.org/manage/4495752893) - $500
 * [IKEA Karlstad Arm Chair](https://post.craigslist.org/manage/4496382878) - $175
 * [IKEA Tertisal Floor Reading Lamp](https://post.craigslist.org/manage/4496398987) - $15
-
 * Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
 
 ## Appliances & Electronics
+
 * [24" Apple Cinema Display](https://post.craigslist.org/manage/4496424162) - $500
 * [Apple full numeric USB keyboard](https://post.craigslist.org/manage/4496437514) - $30
 * [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
