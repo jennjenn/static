@@ -5,13 +5,16 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 
 ## Furniture / Big Things
 * [50" Samsung Plasma Smart TV](https://post.craigslist.org/manage/4495752893) - $500
-* [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
-* [T3 Featherweight Hair Dryer](https://post.craigslist.org/manage/4495939685) - $120
 * [IKEA Karlstad Arm Chair](https://post.craigslist.org/manage/4496382878) - $175
 * [IKEA Tertisal Floor Reading Lamp](https://post.craigslist.org/manage/4496398987) - $15
+
+* Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
+
+## Appliances & Electronics
 * [24" Apple Cinema Display](https://post.craigslist.org/manage/4496424162) - $500
 * [Apple full numeric USB keyboard](https://post.craigslist.org/manage/4496437514) - $30
-* Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
+* [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
+* [T3 Featherweight Hair Dryer](https://post.craigslist.org/manage/4495939685) - $120
 
 ## Books
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
