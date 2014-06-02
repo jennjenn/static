@@ -1,4 +1,5 @@
 # Help me get rid of my stuff?
+
 ### I'm selling it all, packing up what's left, and buying a plane ticket to who knows where. 
 
 Here's a list of my stuff. If you're interested in any of it, [email me](mailto:jenn@jennvargas.com), [tweet me](http://twitter.com/jennjenn), or use some other clever method of communication.
