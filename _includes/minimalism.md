@@ -14,6 +14,7 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 ## Appliances & Electronics
 
 * [24" Apple Cinema Display](https://post.craigslist.org/manage/4496424162) - $500
+* [Wi-fi Kindle Keyboard](http://newyork.craigslist.org/mnh/ele/4505641528.html) - $35
 * [Apple full numeric USB keyboard](https://post.craigslist.org/manage/4496437514) - $30
 * [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
 * [T3 Featherweight Hair Dryer](https://post.craigslist.org/manage/4495939685) - $120
