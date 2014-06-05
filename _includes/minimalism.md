@@ -8,7 +8,6 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 
 * [50" Samsung Plasma Smart TV](https://post.craigslist.org/manage/4495752893) - $500
 * [IKEA Karlstad Arm Chair](https://post.craigslist.org/manage/4496382878) - $175
-* [IKEA Tertisal Floor Reading Lamp](https://post.craigslist.org/manage/4496398987) - $15
 * Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
 
 ## Appliances & Electronics
@@ -17,6 +16,9 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 * [Wi-fi Kindle Keyboard](http://newyork.craigslist.org/mnh/ele/4505641528.html) - $35
 * [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
 * [T3 Featherweight Hair Dryer](https://post.craigslist.org/manage/4495939685) - $120
+
+## Other Around-The-House Things
+* [13x19" White Frame - never opened](http://newyork.craigslist.org/mnh/hsh/4505841296.html) - $25
 
 ## Books
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
@@ -60,8 +62,8 @@ Because I know you totally judge a book by its cover. Listed for easier reading:
 - Cooking in a Small Kitchen - Author Schwartz
 
 ## Not free books:
-These are worth a good bit:
-(All Tufte textbooks):
+These are worth a good bit (All Tufte textbooks):
+
 - Beautiful Evidence
 - Visual Explanations
 - Envisioning Information
@@ -69,3 +71,4 @@ These are worth a good bit:
 
 ## Gone!
 * [Apple full numeric USB keyboard](https://post.craigslist.org/manage/4496437514) - $30
+* [IKEA Tertisal Floor Reading Lamp](https://post.craigslist.org/manage/4496398987) - $15
