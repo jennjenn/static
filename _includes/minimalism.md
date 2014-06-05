@@ -15,12 +15,14 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 
 * [24" Apple Cinema Display](https://post.craigslist.org/manage/4496424162) - $500
 * [Wi-fi Kindle Keyboard](http://newyork.craigslist.org/mnh/ele/4505641528.html) - $35
-* [Apple full numeric USB keyboard](https://post.craigslist.org/manage/4496437514) - $30
 * [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
 * [T3 Featherweight Hair Dryer](https://post.craigslist.org/manage/4495939685) - $120
 
 ## Books
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
+
+![Because I know you totally judge a book by its cover](images/books.jpg)
+Because I know you totally judge a book by its cover. Listed for easier reading:
 
 ### Fiction:
 - The Catcher in the Rye - JD Salinger
@@ -64,3 +66,6 @@ These are worth a good bit:
 - Visual Explanations
 - Envisioning Information
 - The Visual Display of Quantitative Information
+
+## Gone!
+* [Apple full numeric USB keyboard](https://post.craigslist.org/manage/4496437514) - $30
