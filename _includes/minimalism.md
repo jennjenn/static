@@ -6,15 +6,15 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 
 ## Furniture / Big Things
 
-* [50" Samsung Plasma Smart TV](https://post.craigslist.org/manage/4495752893) - $500
-* [IKEA Karlstad Arm Chair](https://post.craigslist.org/manage/4496382878) - $175
+* [50" Samsung Plasma Smart TV](http://newyork.craigslist.org/mnh/ele/4495752893.html) - $500
+* [IKEA Karlstad Arm Chair](http://newyork.craigslist.org/mnh/fuo/4496382878.html) - $175
 * Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
 
 ## Appliances & Electronics
 
 * [Wi-fi Kindle Keyboard](http://newyork.craigslist.org/mnh/ele/4505641528.html) - $35
-* [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
-* [T3 Featherweight Hair Dryer](https://post.craigslist.org/manage/4495939685) - $120
+* [Sennheiser HD 555 Headphones](http://newyork.craigslist.org/mnh/ele/4495906226.html) - $55
+* [T3 Featherweight Hair Dryer](http://newyork.craigslist.org/mnh/hab/4495939685.html) - $120
 * [Sony PS 3](http://newyork.craigslist.org/mnh/vgm/4509393497.html) - $165
 
 ## Kitchen
