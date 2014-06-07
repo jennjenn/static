@@ -16,6 +16,11 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 * [Wi-fi Kindle Keyboard](http://newyork.craigslist.org/mnh/ele/4505641528.html) - $35
 * [Sennheiser HD 555 Headphones](https://post.craigslist.org/manage/4495906226) - $55
 * [T3 Featherweight Hair Dryer](https://post.craigslist.org/manage/4495939685) - $120
+* [Sony PS 3](http://newyork.craigslist.org/mnh/vgm/4509393497.html) - $165
+
+## Kitchen
+* [Grey dishes & bowls set](http://newyork.craigslist.org/mnh/hsh/4509309381.html) - $20
+* [Translucent glass plates and bowls](http://newyork.craigslist.org/mnh/hsh/4509313821.html) - $10
 
 ## Other Around-The-House Things
 * [13x19" White Frame - never opened](http://newyork.craigslist.org/mnh/hsh/4505841296.html) - $25
