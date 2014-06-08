@@ -8,6 +8,7 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 
 * [50" Samsung Plasma Smart TV](http://newyork.craigslist.org/mnh/ele/4495752893.html) - $500
 * [IKEA Karlstad Arm Chair](http://newyork.craigslist.org/mnh/fuo/4496382878.html) - $175
+* IKEA Expedit Bookshelf - 2x4 cubbies. white. just over a year old. - $55
 * Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
 
 ## Appliances & Electronics
