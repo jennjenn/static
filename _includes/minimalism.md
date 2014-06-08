@@ -8,15 +8,15 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 
 * [50" Samsung Plasma Smart TV](http://newyork.craigslist.org/mnh/ele/4495752893.html) - $500
 * [IKEA Karlstad Arm Chair](http://newyork.craigslist.org/mnh/fuo/4496382878.html) - $175
-* IKEA Expedit Bookshelf - 2x4 cubbies. white. just over a year old. - $55
+* IKEA Expedit Bookshelf - 2x4 cubbies. white. just over a year old. - $55 **[PENDING]**
 * Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
 
 ## Appliances & Electronics
 
-* [Wi-fi Kindle Keyboard](http://newyork.craigslist.org/mnh/ele/4505641528.html) - $35
-* [Sennheiser HD 555 Headphones](http://newyork.craigslist.org/mnh/ele/4495906226.html) - $55
+* [Wi-fi Kindle Keyboard](http://newyork.craigslist.org/mnh/ele/4505641528.html) - $35 **[PENDING]**
+* [Sennheiser HD 555 Headphones](http://newyork.craigslist.org/mnh/ele/4495906226.html) - $55 **[PENDING]**
 * [T3 Featherweight Hair Dryer](http://newyork.craigslist.org/mnh/hab/4495939685.html) - $120
-* [Sony PS 3](http://newyork.craigslist.org/mnh/vgm/4509393497.html) - $165
+* [Sony PS 3](http://newyork.craigslist.org/mnh/vgm/4509393497.html) - $165 **[PENDING]**
 
 ## Kitchen
 * [Grey dishes & bowls set](http://newyork.craigslist.org/mnh/hsh/4509309381.html) - $20
@@ -29,7 +29,7 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 A lot of these were school books, hence the theme. All of the spines are in perfect condition because I'm OCD like that. You can have them for free, but if that would make you feel guilty, I wouldn't say no to an amazon giftcard to offset my Kindle addiction.
 
 ![Because I know you totally judge a book by its cover](images/books.jpg)
-Because I know you totally judge a book by its cover. Listed for easier reading:
+Because I know you totally judge a book by its cover. Listed for easier reading:  **[ALL PENDING]**
 
 ### Fiction:
 - The Catcher in the Rye - JD Salinger
