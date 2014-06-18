@@ -7,7 +7,6 @@ Here's a list of my stuff. If you're interested in any of it, [email me](mailto:
 ## Furniture / Big Things
 
 * [50" Samsung Plasma Smart TV](http://newyork.craigslist.org/mnh/ele/4495752893.html) - $500
-* [IKEA Karlstad Arm Chair](http://newyork.craigslist.org/mnh/fuo/4496382878.html) - $175
 * IKEA Expedit Bookshelf - 2x4 cubbies. white. just over a year old. - $55 **[PENDING]**
 * Full-size amazingly comfortable bed. Box spring, mattress, and bed frame. - Make an offer
 
@@ -78,3 +77,4 @@ These are worth a good bit (All Tufte textbooks):
 * [Apple full numeric USB keyboard](https://post.craigslist.org/manage/4496437514)
 * [IKEA Tertisal Floor Reading Lamp](https://post.craigslist.org/manage/4496398987)
 * [24" Apple Cinema Display](https://post.craigslist.org/manage/4496424162)
+* [IKEA Karlstad Arm Chair](http://newyork.craigslist.org/mnh/fuo/4496382878.html)
