@@ -1,6 +1,7 @@
 #places to go#
 
 * Africa, Morocco
+* Africa, South Africa, Cape Town
 * Africa, South Africa, Johannesburg
 * Asia, China
 * Asia, Hong Kong
@@ -9,8 +10,6 @@
 * Asia, Israel
 * Asia, Singapore
 * Asia, Thailand
-* Australia, Australia
-* Australia, New Zealand
 * Europe, Croatia
 * Europe, Greece
 * Europe, Iceland
@@ -53,6 +52,8 @@
 * North America, USA, Tennessee, Nashville
 * North America, USA, Vermont
 * North America, USA, Wisconsin
+* Oceania, Australia
+* Oceania, New Zealand
 * South America, Argentina
 * South America, Brazil
 * South America, Chile
