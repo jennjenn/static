@@ -4,12 +4,12 @@
 * Africa, South Africa, Cape Town
 * Africa, South Africa, Johannesburg
 * Asia, China
-* Asia, Hong Kong
+* ~~Asia, Hong Kong~~
 * ~~Asia, Japan, Tokyo~~
 * Asia, India
 * Asia, Israel
 * Asia, Singapore
-* Asia, Thailand
+* ~~Asia, Thailand~~
 * Europe, Croatia
 * Europe, Greece
 * Europe, Iceland
@@ -80,7 +80,7 @@
 * ~~Fly first class~~
 * Fly somewhere just to get lunch
 * Go on a sailing vacation
-* Go snorkeling
+* ~~Go snorkeling~~
 * Learn to play a new instrument
 * Learn to play tennis
 * Live abroad
