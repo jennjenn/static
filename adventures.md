@@ -1,7 +1,7 @@
 #places to go#
 
 * Africa, Morocco
-* Africa, South Africa, Cape Town
+* ~Africa, South Africa, Cape Town~
 * Africa, South Africa, Johannesburg
 * Asia, China
 * ~~Asia, Hong Kong~~
@@ -37,7 +37,7 @@
 * North America, USA, Hawaii
 * North America, USA, Louisiana, New Orleans
 * North America, USA, Maryland, Baltimore
-* North America, USA, Massachusetts, Boston
+* ~North America, USA, Massachusetts, Boston~
 * North America, USA, Michigan
 * North America, USA, Minnesota
 * North America, USA, Mississippi
