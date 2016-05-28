@@ -12,11 +12,11 @@
 * ~~Asia, Thailand~~
 * Europe, Croatia
 * Europe, Greece
-* Europe, Iceland
-* Europe, Ireland
+* ~~Europe, Iceland~~
+* ~~Europe, Ireland~~
 * Europe, Italy, Bologna
 * Europe, Italy, Cinque Terre
-* Europe, The Netherlands, Amsterdam
+* ~~Europe, The Netherlands, Amsterdam~~
 * Europe, UK, Northern Ireland
 * Europe, UK, Scotland
 * ~~Europe, Norway~~
@@ -57,7 +57,8 @@
 * South America, Argentina
 * South America, Brazil
 * South America, Chile
-* South America, Colombia
+* ~~South America, Colombia~~
+* South America, Patagonia
 
 #things to see
 
@@ -85,12 +86,12 @@
 * Learn to play tennis
 * Live abroad
 * Meet the President
-* Ride a horse
+* ~~Ride a horse~~
 * Ride a jetski
 * Run a 5k
 * ~~Travel somewhere entirely on mileage / points~~
 * Try archery
 * Visit at least 100 countries
 * Visit every continent (sans Antarctica, but that would be cool)
-* Walk on a glacier
+* ~~Walk on a glacier~~
 * Waterski
