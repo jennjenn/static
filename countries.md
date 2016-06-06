@@ -10,26 +10,27 @@
 6. Denmark
 7. Italy
 8. Vatican
-9. Monaco
-10. Switzerland
-12. Liechtenstein
-13. Germany (x3 or more. I lost count.)
-14. Austria 
-15. Czech Republic (x2)
-16. Taiwan (x2)
-17. Japan
-18. Norway
-19. Canada (x2)
-20. Thailand
-21. Cambodia
-22. Vietnam
-23. Malaysia
-24. South Africa (x2)
-25. Iceland
-26. Ireland
-27. Holland
-28. [PENDING] Portugal
-29. [PENDING] Singapore 
+9. Switzerland
+10. Liechtenstein
+11. Germany (x3 or more. I lost count.)
+12. Austria 
+13. Czech Republic (x2)
+14. Taiwan (x2)
+15. Japan
+16. Norway
+17. Canada (x2)
+28. Thailand
+19. Cambodia
+20. Vietnam
+21. Malaysia
+22. South Africa (x2)
+23. Iceland
+24. Ireland
+25. Holland
+26. Portugal
+27. [PENDING] Singapore 
+28.
+29.
 30.
 
 ## Territories, etc.
