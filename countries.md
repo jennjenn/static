@@ -39,13 +39,14 @@
 
 
 
-Alphabetically:
+### Alphabetically:
 I met a guy trying to visit a country for every letter in the alphabet, so I thought I'd see how I'm doing on that:
 
 **A**
 * Austria
 
 **B**
+
 **C**
 * Cambodia
 * Canada
@@ -66,7 +67,7 @@ I met a guy trying to visit a country for every letter in the alphabet, so I tho
 
 **H**
 * Holland 
-* 
+
 **I**
 * Iceland
 * Ireland
@@ -76,6 +77,7 @@ I met a guy trying to visit a country for every letter in the alphabet, so I tho
 * Japan
 
 **K**
+
 **L**
 * Liechtenstein
 
@@ -86,11 +88,14 @@ I met a guy trying to visit a country for every letter in the alphabet, so I tho
 * Norway
 
 **O**
+
 **P**
 * Portugal
 
 **Q**
+
 **R**
+
 **S**
 * South Africa
 * Spain
@@ -108,6 +113,9 @@ I met a guy trying to visit a country for every letter in the alphabet, so I tho
 * Vietnam
 
 **W**
+
 **X**
+
 **Y**
+
 **Z**
