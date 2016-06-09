@@ -36,3 +36,78 @@
 
 ## Territories, etc.
 * Hong Kong
+
+
+
+Alphabetically:
+I met a guy trying to visit a country for every letter in the alphabet, so I thought I'd see how I'm doing on that:
+
+**A**
+* Austria
+
+**B**
+**C**
+* Cambodia
+* Canada
+* Colombia
+* Czech Republic
+
+**D**
+* Denmark
+
+**E**
+* England
+
+**F**
+* France
+
+**G**
+* Germany
+
+**H**
+* Holland 
+* 
+**I**
+* Iceland
+* Ireland
+* Italy
+
+**J**
+* Japan
+
+**K**
+**L**
+* Liechtenstein
+
+**M**
+* Malaysia
+
+**N**
+* Norway
+
+**O**
+**P**
+* Portugal
+
+**Q**
+**R**
+**S**
+* South Africa
+* Spain
+* Switzerland
+
+**T**
+* Taiwan
+* Thailand
+
+**U**
+* United States
+
+**V**
+* Vatican
+* Vietnam
+
+**W**
+**X**
+**Y**
+**Z**
