@@ -20,7 +20,7 @@
 * Europe, UK, Northern Ireland
 * Europe, UK, Scotland
 * ~~Europe, Norway~~
-* Europe, Portugal, Lisbon
+* ~~Europe, Portugal, Lisbon~~
 * Europe, Turkey
 * North America, Canada, Montreal
 * North America, Canada, Toronto
