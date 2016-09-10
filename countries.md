@@ -9,7 +9,7 @@
 5. Spain
 6. Denmark
 7. Italy
-8. Vatican
+8. Vatican City
 9. Switzerland
 10. Liechtenstein
 11. Germany (x3 or more. I lost count.)
@@ -28,11 +28,11 @@
 24. Ireland
 25. Holland
 26. Portugal
-27. [PENDING] Singapore 
-28.
-29.
+27. Singapore [PENDING]
+28. China [PENDING]
+29. South Korea [PENDING]
 30.
-
+31. Sweden [PENDING]
 
 ## Territories, etc.
 * Hong Kong
