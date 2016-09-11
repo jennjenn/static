@@ -1,7 +1,5 @@
 # Countries Visited
 
-(I use the US Department of State [list of recognized countries](http://www.state.gov/misc/list/index.htm))
-
 1. United States
 2. Colombia (x2)
 3. United Kingdom (England)
@@ -22,6 +20,7 @@
 28. Thailand
 19. Cambodia
 20. Vietnam
+21. Hong Kong
 21. Malaysia
 22. South Africa (x2)
 23. Iceland
@@ -33,10 +32,6 @@
 29. South Korea [PENDING]
 30. [[[]]]
 31. Sweden [PENDING]
-
-## Territories, etc.
-* Hong Kong
-
 
 
 ### Alphabetically:
