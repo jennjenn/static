@@ -20,7 +20,7 @@
 28. Thailand
 19. Cambodia
 20. Vietnam
-21. Hong Kong
+21. Hong Kong (x2)
 21. Malaysia
 22. South Africa (x2)
 23. Iceland
