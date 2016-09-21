@@ -27,10 +27,9 @@
 24. Ireland
 25. Holland
 26. Portugal
-27. Singapore [PENDING]
-28. China [PENDING]
-29. South Korea [PENDING]
-30. [[[]]]
+27. Singapore
+28. China
+29. South Korea
 31. Sweden [PENDING]
 
 
