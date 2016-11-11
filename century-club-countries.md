@@ -1,11 +1,4 @@
-<table border="1" width="100%" cellspacing="0">
-<tbody>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>PACIFIC OCEAN (39)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+# PACIFIC OCEAN (39)
 <li>Australia</li>
 <li>Bismark Archipelago (New Ireland, New Britain, Bougainville, Admiralty Islands)</li>
 <li>Chatham Islands</li>
