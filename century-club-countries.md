@@ -1,4 +1,4 @@
-# PACIFIC OCEAN (39)
+## PACIFIC OCEAN (39)
 <li>Australia</li>
 <li>Bismark Archipelago (New Ireland, New Britain, Bougainville, Admiralty Islands)</li>
 <li>Chatham Islands</li>
@@ -17,10 +17,6 @@
 <li>Marshall Islands, Republic of (Majuro, Kwajalein, Eniwetok)</li>
 <li>Micronesia, Fed.States of (Pohnpei, Kosrae, Chuuk,Yap,Caroline Islands)</li>
 <li>Midway Island</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Nauru</li>
 <li>New Caledonia &amp; Deps. (Noumea, Loyalty Islands)</li>
 <li>New Zealand</li>
@@ -42,54 +38,25 @@
 <li>Vanuatu (New Hebrides Islands)</li>
 <li>Wake Island</li>
 <li>Wallis &amp; Futuna Islands</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>NORTH AMERICA (6)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## NORTH AMERICA (6)
 <li>Alaska</li>
 <li>Canada</li>
 <li>Mexico</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Prince Edward Island</li>
 <li>St. Pierre &amp; Miquelon</li>
 <li>United States (continental)</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>CENTRAL AMERICA (7)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## CENTRAL AMERICA (7)
 <li>Belize (British Honduras)</li>
 <li>Costa Rica</li>
 <li>El Salvador</li>
 <li>Guatemala</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Honduras</li>
 <li>Nicaragua</li>
 <li>Panama</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>SOUTH AMERICA (14)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## SOUTH AMERICA (14)
 <li>Argentina</li>
 <li>Bolivia</li>
 <li>Brazil</li>
@@ -97,10 +64,6 @@
 <li>Colombia</li>
 <li>Ecuador</li>
 <li>French Guiana</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Guyana (British Guiana)</li>
 <li>Nueva Esparta (Margarita Island)</li>
 <li>Paraguay</li>
@@ -108,15 +71,8 @@
 <li>Suriname (Netherlands Guiana)</li>
 <li>Uruguay</li>
 <li>Venezuela</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>CARIBBEAN (30)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## CARIBBEAN (30)
 <li>Anguilla</li>
 <li>Antigua &amp; Deps. (Barbuda, Redonda)</li>
 <li>Aruba</li>
@@ -132,10 +88,6 @@
 <li>Guadeloupe &amp; Deps.(Marie Galante)</li>
 <li>Haiti</li>
 <li>Jamaica</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Leeward Islands, French (St. Martin)</li>
 <li>Leeward Islands, Netherlands (Saba, St. Eustatius)</li>
 <li>Martinique</li>
@@ -151,15 +103,8 @@
 <li>Turks &amp; Caicos Islands</li>
 <li>Virgin Islands, U.S. (St. Croix, St. John, St. Thomas)</li>
 <li>Virgin Islands, British (Tortola, etc.)</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>ATLANTIC OCEAN (13) </strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## ATLANTIC OCEAN (13)
 <li>Ascension</li>
 <li>Azores Islands</li>
 <li>Bermuda</li>
@@ -167,25 +112,14 @@
 <li>Cape Verde Islands</li>
 <li>Falkland Islands</li>
 <li>Fernando do Noronha</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Faroe Islands</li>
 <li>Greenland (Kalaallit Nunaat)</li>
 <li>Iceland</li>
 <li>Madeira</li>
 <li>St. Helena</li>
 <li>Tristan da Cunha</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>EUROPE &amp; MEDITERRANEAN (67)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## EUROPE &amp; MEDITERRANEAN (67)
 <li>Aland Islands (Mariehamn)</li>
 <li>Albania</li>
 <li>Andorra</li>
@@ -220,10 +154,6 @@
 <li>Jersey (Channel Islands)</li>
 <li>Kaliningrad</li>
 <li>Kosovo</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Lampedusa</li>
 <li>Latvia</li>
 <li>Liechtenstein</li>
@@ -257,35 +187,17 @@
 <li>Ukraine</li>
 <li>Vatican City</li>
 <li>Wales</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>ANTARCTICA (7) </strong></td>
-</tr>
-<tr align="left">
-<td valign="top">
-<ul>
+
+## ANTARCTICA (7)
 <li>Argentine (Palmer Peninsula)</li>
 <li>Australian Antarctic Territory South Pole (Mawson, Davis, Macquarie, Heard)</li>
 <li>Chilean (Palmer Peninsula)</li>
 <li>Falkland Islands Dependencies (British Antarctica, Graham Land, So. Shetland, So. Sandwich, So. Georgia, So. Orkney)</li>
-</ul>
-</td>
-<td valign="top">
-<ul>
 <li>French Southern &amp; Antarctic Territory (Kerguelen, Crozet, Amsterdam, St. Paul)</li>
 <li>Norwegian (Queen Maud Land, Bouvet)</li>
 <li>New Zealand (Ross Dependency)</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>AFRICA (55)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## AFRICA (55)
 <li>Algeria</li>
 <li>Angola</li>
 <li>Benin (Dahomey)</li>
@@ -314,10 +226,6 @@
 <li>Lesotho (Basutoland)</li>
 <li>Liberia</li>
 <li>Libya</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Malawi (Nyasaland)</li>
 <li>Mali</li>
 <li>Mauritania</li>
@@ -345,15 +253,8 @@
 <li>Zambia (No. Rhodesia)</li>
 <li>Zanzibar</li>
 <li>Zimbabwe (So. Rhodesia)</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>MIDDLE EAST (21)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## MIDDLE EAST (21)
 <li>Abu Dhabi</li>
 <li>Ajman</li>
 <li>Bahrain</li>
@@ -365,10 +266,6 @@
 <li>Israel</li>
 <li>Jordan</li>
 <li>Kuwait</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Lebanon</li>
 <li>Oman</li>
 <li>Palestine</li>
@@ -379,15 +276,8 @@
 <li>Syria</li>
 <li>Umm Al Qaiwain</li>
 <li>Yemen</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>INDIAN OCEAN (15) </strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## INDIAN OCEAN (15)
 <li>Andaman-Nicobar Islands</li>
 <li>British Indian Ocean Territory (Chagos Arch, Diego Garcia)</li>
 <li>Christmas Island</li>
@@ -396,10 +286,6 @@
 <li>Lakshadweep</li>
 <li>Madagascar</li>
 <li>Maldive Islands</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Mauritius &amp; Deps. (Agalega, St. Brandon)</li>
 <li>Mayotte (Dzaoudzi)</li>
 <li>Reunion &amp; Deps. (Tromelin, Glorioso)</li>
@@ -407,15 +293,8 @@
 <li>Seychelles</li>
 <li>Socotra</li>
 <li>Zil Elwannyen Sesel (Aldabra, Farquhar, Amirante Is.)</li>
-</ul>
-</td>
-</tr>
-<tr align="left">
-<td style="padding: 4px; background-color: #adc1eb;" colspan="2" align="center"><strong>ASIA (51)</strong></td>
-</tr>
-<tr align="left">
-<td valign="top" width="50%">
-<ul>
+
+## ASIA (51)
 <li>Abkhazia</li>
 <li>Afghanistan</li>
 <li>Armenia (Yerevan)</li>
@@ -442,10 +321,6 @@
 <li>Lesser Sunda Islands (Bali,Timor, Indonesia)</li>
 <li>Macau</li>
 <li>Malaysia</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<ul>
 <li>Moluka</li>
 <li>Mongolia, Republic</li>
 <li>Myanmar (Burma)</li>
@@ -471,8 +346,5 @@
 <li>Turkmenistan</li>
 <li>Uzbekistan</li>
 <li>Vietnam</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+
+*SOURCE: [Travelers' Century Club](http://travelerscenturyclub.org/countries-and-territories)
